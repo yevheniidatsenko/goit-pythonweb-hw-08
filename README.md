@@ -1,6 +1,6 @@
 # Contact Management REST API
 
-**Goal:** Create a REST API for storing and managing contacts.
+**Goal:** The goal of this homework assignment is to create a REST API for storing and managing contacts. The API should be built using the FastAPI infrastructure and should use SQLAlchemy to manage the database.
 
 **Tech Stack:**
 
@@ -35,4 +35,4 @@
 
 ## Results
 
-`![API Screenshot](./screenshots/SCR_1.png)`
+![API Screenshot](./screenshots/SCR_1.png)
